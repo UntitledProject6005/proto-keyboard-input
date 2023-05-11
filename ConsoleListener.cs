@@ -1,8 +1,8 @@
 ﻿namespace ProtoKeyboardInput;
 
-class Program
+class ConsoleListener
 {
-        static void Main(string[] args)
+        static void AMain(string[] args)
         {
                 // https://stackoverflow.com/a/46939556/3875151
                 ConsoleKey key;
